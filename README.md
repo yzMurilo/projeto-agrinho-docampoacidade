@@ -35,4 +35,4 @@ A variedade de culturas (milho, trigo, batata, cenoura).
 Mensagem Principal:
 "Do campo vem o alimento que sustenta a cidade! Valorize quem trabalha para levar comida à sua mesa."
 
-"Do campo vem o alimento que sustenta a cidade! Valorize quem trabalha para levar comida à sua mesa."
+**Feito por IA**
